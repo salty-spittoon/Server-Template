@@ -1,6 +1,6 @@
 # Server-Template
 A template of a Fabric server including the mods
-and data packs we use.
+and data packs used on the Salty Spittoon.
 
 Run.bat will start the Fabric server with 10GB
 of allocated RAM by default unless the values
